@@ -1,0 +1,4 @@
+gitlab°²×°
+https://about.gitlab.com/install/#centos-7
+https://www.jianshu.com/p/4f8afc36a115?utm_source=oschina-app
+https://mirror.tuna.tsinghua.edu.cn/help/gitlab-ce/
